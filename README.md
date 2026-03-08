@@ -1,4 +1,11 @@
 Network-Recon
+application capabilities
+    - mass lan scanning
+    - port scanning
+    - vuln assessment
+    - bandwidth limiting
+    - arp spoofing
+    - dns spoofing
 
 A high-performance, asynchronous LAN discovery and port scanning utility built in Rust. This tool leverages non-blocking I/O to achieve maximum throughput while maintaining memory safety.
  Features
